@@ -1,0 +1,6 @@
+/ -> Landing, find a way to offer different ways of search
+/manufacturers -> Get all manufactures, implement pagination as there are too many.
+/manufacturers/:man_name/details -> Get manufacturer details
+/manufacturers/:mft_id/makes/ -> Get makes for manufacturers by manufacturer name
+/makes/:make/models/ -> Get models for makes, by make name.
+/makes/:make_id/models/ -> Get models for makes, by make id.
